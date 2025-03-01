@@ -2,7 +2,7 @@ import { ListFilter, LogOut, MessageSquareDiff, Search, User } from "lucide-reac
 import { Input } from "../ui/input";
 import ThemeSwitch from "./theme-switch";
 import { conversations } from "@/dummy-data/db";
-import Conversation from "./converstion";
+import Conversation from "./conversation";
 
 const LeftPanel = () => {
 	
